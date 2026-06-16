@@ -1,2 +1,2 @@
-# my-anal
+# my-analysis
 analysis
